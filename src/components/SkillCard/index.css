@@ -1,0 +1,17 @@
+.skill-list-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.skill-img {
+  height: 40px;
+  width: 40px;
+  margin-right: 20px;
+}
+
+.skill-name {
+  font-size: 14px;
+  color: #f1f5f9;
+}
